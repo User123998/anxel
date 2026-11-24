@@ -1,0 +1,8 @@
+{
+  "name": "Umbra Voxel — C++20 Vulkan Voxel Lighting & Darkness Engine",
+  "description": "A complete C++20 and Vulkan voxel engine with dual-channel BFS sky-light and block-light propagation, natural darkness, GLSL 450 shaders, compile.sh build script, and interactive 3D browser simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
